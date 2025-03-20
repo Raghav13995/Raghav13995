@@ -32,10 +32,18 @@ A **clothing rental website** using the MERN stack.
 A React-based app that fetches and displays GIFs using APIs.
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/raghav-agrawal-7a72a6250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayushbhavsarnitrr/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/raghavagrawal969?igsh=N28yeGs0bjBsM3Vp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ayush.bhavsar214/?igshid=nzzlodbkywe4ng%3d%3d" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/raghav2506" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ayushbhavsar" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/raghavagrawal06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ayushbhavsar/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/raghavagrawal969/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/ayushbhavsar" height="30" width="40" /></a>
+</p>
 
 ## 📫 Connect With Me
 
-- LinkedIn: [https://www.linkedin.com/in/raghav-agrawal-7a72a6250/](#)
+- LinkedIn: [](#)
 - Email: [raghavagrawal2506@gmail.com](#)
 - Portfolio: Currently Working(#)
 
