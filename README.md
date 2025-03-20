@@ -31,13 +31,13 @@ A **clothing rental website** using the MERN stack.
 ### 🔹 GIF Generator
 A React-based app that fetches and displays GIFs using APIs.
 
-![Projects GIF](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)
+
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn](#)
-- Email: [Your Email](#)
-- Portfolio: [Your Website](#)
+- LinkedIn: [https://www.linkedin.com/in/raghav-agrawal-7a72a6250/](#)
+- Email: [raghavagrawal2506@gmail.com](#)
+- Portfolio: Currently Working(#)
 
 
 <!--
