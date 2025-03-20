@@ -1,6 +1,6 @@
 ## Hi👋, I'm Raghav Agrawal
 An IT Undergrad student at SGSITS INDORE || 2* @codechef 
-
+![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 ## 🚀 About Me
 
@@ -18,6 +18,8 @@ An IT Undergrad student at SGSITS INDORE || 2* @codechef
 - **Databases:** MongoDB, MySQL
 - **Tools & Platforms:** Git, GitHub, Eclipse, MongoDB Compass
 
+![Tech GIF](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
+
 ## 📌 Projects
 
 ### 🔹 Study-Notion
@@ -29,13 +31,13 @@ A **clothing rental website** using the MERN stack.
 ### 🔹 GIF Generator
 A React-based app that fetches and displays GIFs using APIs.
 
+![Projects GIF](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)
+
 ## 📫 Connect With Me
 
 - LinkedIn: [Your LinkedIn](#)
 - Email: [Your Email](#)
 - Portfolio: [Your Website](#)
-
-💡 *Always eager to learn and collaborate on exciting projects!* 🚀
 
 
 <!--
