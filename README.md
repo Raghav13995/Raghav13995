@@ -3,7 +3,7 @@ An IT Undergrad student at SGSITS INDORE || 2* @codechef
 
 ## 🚀 About Me
 
-- 🎓 Second-year IT student
+- 🎓 Final-year IT student
 - 💻 Passionate about Web Development, Java, and Distributed Systems
 - 🌱 Currently learning AI/ML and improving my Java RMI skills
 - 🔍 Exploring Full Stack Development with MERN and working on projects like **Study-Notion** and **KLOSET**
