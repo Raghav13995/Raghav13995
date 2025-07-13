@@ -38,7 +38,7 @@
 **🚀 Tech Stack:** React.js, TailwindCSS, Node.js, Express, MongoDB, React-PDF, PDF-Lib, React-DnD
 
 🔗 **Live Demo:** [doc-sign-client-zeta.vercel.app](https://doc-sign-client-zeta.vercel.app)  
-🔧 **Repo:** [GitHub – DocSign](https://github.com/Raghav13995/DocSign-client)
+🔧 **Repo:** [GitHub – DocSign](https://github.com/Raghav13995/Doc-Sign-Client)
 
 ---
 
