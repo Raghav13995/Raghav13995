@@ -12,7 +12,7 @@
 - 🎓 Final-year B.Tech (IT) student at **SGSITS, Indore**
 - 💡 Currently exploring **AI/ML**, **Data Science**, and **Full Stack Development**
 - 🔨 Working on projects like **Study-Notion**, **KLOSET**, and more!
-- 🥇 Secured **9th Rank** in 10th Board Exams
+- 🥇 Secured **9th Rank** in 10th Board Exams in Merit 
 - 🧠 Constant learner with a problem-solving mindset
 
 ---
